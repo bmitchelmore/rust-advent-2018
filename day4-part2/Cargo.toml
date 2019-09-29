@@ -1,0 +1,9 @@
+[package]
+name = "day4-part1"
+version = "0.1.0"
+authors = ["blair_mitchelmore"]
+edition = "2018"
+
+[dependencies]
+chrono = "0.4"
+regex = "1"

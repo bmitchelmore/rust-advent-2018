@@ -1,0 +1,8 @@
+[package]
+name = "d6p2"
+version = "0.1.0"
+authors = ["blair_mitchelmore"]
+edition = "2018"
+
+[dependencies]
+regex = "1"

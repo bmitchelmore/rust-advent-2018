@@ -1,0 +1,10 @@
+[package]
+name = "d8p1"
+version = "0.1.0"
+authors = ["blair_mitchelmore"]
+edition = "2018"
+
+[dependencies]
+
+[profile.dev]
+opt-level = 3
